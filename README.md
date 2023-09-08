@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2s494
+- 👋 Hi, I’m Yodgorov Asror
 - 👀 I’m interested in creating interesting and useful applicaitons
 - 🌱 I’m currently learning flutter
 
